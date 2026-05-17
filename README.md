@@ -132,11 +132,11 @@ Beyond the Can — What Drives Red Bull's Digital Dominance/
 ├── data/
 ├── cleaned_dataset/
 ├── cleaned_redbull_master_v3.csv 
-├── visuals
-├── images
+├── visuals/
+├── images/
 ├── notebook/
 ├── redbull_brand_intelligence_report.ipynb
-├── sql
+├── sql/
 ├── powerbi_dashboard/
 ├── redbull_brand_intelligence_report.pbix
 ├── README.md
