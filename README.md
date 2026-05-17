@@ -79,7 +79,7 @@ Predict Red Bull popularity based on:
 * Red Bull behaves more like a media and entertainment brand than a traditional beverage company.
 
 ---
-
+## Red Bull Digital Dominance Dashboard
 ![Dashboard 1](images/1.png)
 ![Dashboard 2](images/2.png)
 ![Dashboard 3](images/global_search_trends.png)
