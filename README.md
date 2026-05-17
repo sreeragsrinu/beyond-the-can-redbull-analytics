@@ -2,9 +2,7 @@
 
 ![Redbull](images/redbull.jpg)
 
-A comprehensive brand intelligence and predictive analytics project focused on analyzing Red Bull’s global digital engagement patterns using Google Trends data, Python, Jupyter Notebook, MariaDB/SQL, Machine Learning, and interactive Power BI visualizations.
-
-Built an end-to-end analytics pipeline integrating data engineering, exploratory analysis, machine learning, SQL querying, and interactive business intelligence dashboards.
+An end-to-end data analytics, machine learning, and business intelligence project analyzing Red Bull’s global digital dominance using Google Trends data, Python, SQL/MariaDB, Jupyter Notebook, and Power BI.
 
 ---
 
@@ -181,7 +179,7 @@ Google Trends
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sreeragsrinu/git clone https://github.com/sreeragsrinu/beyond-the-can-redbull-analytics.git
+git clone https://github.com/sreeragsrinu/beyond-the-can-redbull-analytics.git
 ```
 
 ### 2. Install Requirements
