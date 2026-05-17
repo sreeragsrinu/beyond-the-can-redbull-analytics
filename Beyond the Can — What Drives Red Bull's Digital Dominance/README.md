@@ -2,9 +2,7 @@
 
 ![Redbull](images/redbull.jpg)
 
-A comprehensive brand intelligence and predictive analytics project focused on analyzing Red Bull’s global digital engagement patterns using Google Trends data, Python, Jupyter Notebook, MariaDB/SQL, Machine Learning, and interactive Power BI visualizations.
-
-Built an end-to-end analytics pipeline integrating data engineering, exploratory analysis, machine learning, SQL querying, and interactive business intelligence dashboards.
+An end-to-end data analytics, machine learning, and business intelligence project analyzing Red Bull’s global digital dominance using Google Trends data, Python, SQL/MariaDB, Jupyter Notebook, and Power BI.
 
 ---
 
@@ -134,11 +132,11 @@ Beyond the Can — What Drives Red Bull's Digital Dominance/
 ├── data/
 ├── cleaned_dataset/
 ├── cleaned_redbull_master_v3.csv 
-├── visuals
-├── images
+├── visuals/
+├── images/
 ├── notebook/
 ├── redbull_brand_intelligence_report.ipynb
-├── sql
+├── sql/
 ├── powerbi_dashboard/
 ├── redbull_brand_intelligence_report.pbix
 ├── README.md
