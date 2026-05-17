@@ -181,7 +181,7 @@ Google Trends
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/sreeragsrinu/git clone https://github.com/sreeragsrinu/beyond-the-can-redbull-analytics.git
+git clone https://github.com/sreeragsrinu/beyond-the-can-redbull-analytics.git
 ```
 
 ### 2. Install Requirements
